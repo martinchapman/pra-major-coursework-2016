@@ -1,1 +1,1 @@
-See also https://github.com/martinchapman/jaws
+See also https://github.com/martin-teaching/ppa-client/tree/jaws
